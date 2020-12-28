@@ -1,10 +1,12 @@
 # Microtonal Fabric
 
+## Abstract
+
 This is a documentation project for integration of the [Mictoronal Fabric](https://github.com/SAKryukov/microtonal-fabric) development with [CodeProject publications](https://www.codeproject.com/Members/SAKryukov) on this topic.
 
 It will be used to publish news, previews of the applications and components under development and integrate documentation and CodeProject articles.
 
-### Original Publications
+## Original Publications
 
 _[Musical Study with Isomorphic Computer Keyboard](https://www.codeproject.com/Articles/1201737/Musical-Study-with-Isomorphic-Computer-Keyboard)_, August 16, 2017<br/><small>This is the first work of the keyboard-related cycle, and it is not microtonal. However, it contains some theoretical introduction applicable to other works, which are essentially microtonal.</small>
 
@@ -12,7 +14,7 @@ _[Microtonal Music Study with Chromatic Lattice Keyboard](https://www.codeprojec
 
 _[Sound Builder, Web Audio Synthesizer](https://www.codeproject.com/Articles/5268512/Sound-Builder)_, May 19, 2020
 
-### Live-Play Applications
+## Live-Play Applications
 
 [SoundBuilder](https://sakryukov.github.io/microtonal-fabric/code/SoundBuilder)
 
@@ -24,7 +26,7 @@ Specialized [29-EDO](https://sakryukov.github.io/microtonal-fabric/code/29-EDO) 
 
 [Sequence Tool](https://sakryukov.github.io/microtonal-fabric/code/sequence-tool)
 
-### Experimental: Microtonal Playground
+## Experimental: Microtonal Playground
 
 Live play: [Microtonal Playground](https://sakryukov.github.io/microtonal-fabric/code/playground/index.html)
 
@@ -35,4 +37,3 @@ It allows anyone to define one's own frequencies, place them in a simple rectang
 Later, the application will get standard controls of volume, sustain, transposition, and the Recorder. Right now, only the choice of instrument is available.
 
 Also under development: the tonal system put forward by [Kite Giedraitis](https://en.xen.wiki/w/Kite_Giedraitis), with [his layout and generator system](https://en.xen.wiki/w/Color_notation#Interval_Names). I already make it playable, but I'm trying to design something to be _practically playable_.
-
