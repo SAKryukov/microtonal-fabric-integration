@@ -22,6 +22,8 @@ _[Sound Builder, Web Audio Synthesizer](https://www.codeproject.com/Articles/526
 
 [Multi-EDO Chromatic Lattice](https://sakryukov.github.io/microtonal-fabric/code/Multi-EDO/index.html), isomorphic chromatic keyboard
 
+[Microtonal Playground](https://sakryukov.github.io/microtonal-fabric/code/playground)
+
 Specialized [29-EDO](https://sakryukov.github.io/microtonal-fabric/code/29-EDO) keyboards
 
 [Sequence Tool](https://sakryukov.github.io/microtonal-fabric/code/sequence-tool)
